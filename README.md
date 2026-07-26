@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
