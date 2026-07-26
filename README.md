@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+| [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1609-even-odd-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List
 |  |
