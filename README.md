@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -251,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
