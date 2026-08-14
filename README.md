@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sorting
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
