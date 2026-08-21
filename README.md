@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3620-network-recovery-pathways) |
@@ -239,11 +242,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Simulation
 |  |
@@ -284,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
