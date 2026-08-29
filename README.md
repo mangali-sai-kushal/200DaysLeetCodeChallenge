@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
