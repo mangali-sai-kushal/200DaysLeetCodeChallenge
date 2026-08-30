@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -314,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
