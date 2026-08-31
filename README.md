@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Game Theory
 |  |
 | ------- |
