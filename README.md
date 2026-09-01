@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0205-isomorphic-strings](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -320,8 +322,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
