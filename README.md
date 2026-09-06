@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
