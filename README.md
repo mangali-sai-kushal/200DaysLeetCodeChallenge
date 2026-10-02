@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/mangali-sai-kushal/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
